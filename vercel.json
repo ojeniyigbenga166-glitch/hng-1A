@@ -1,7 +1,3 @@
 {
-  "buildCommand": "",
-  "installCommand": "",
-  "framework": null,
-  "outputDirectory": "./stage-0-frontend",
-  "public": true
+  "framework": null
 }
